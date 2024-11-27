@@ -3,7 +3,9 @@ Este proyecto es una aplicación web interactiva que genera citas motivacionales
 
 [Ver el Proyecto en Acción](https://jairo51067.github.io/Citas-motivacionales/)
 <br>
-![Vista Previa](URL de la imagen)
+Vista Previa
+<br>
+![citas-aleatorias](https://github.com/user-attachments/assets/0651b4d9-53a6-48e7-a9fd-7d4ef329ca76)
 <br>
 
 ## Descripción  
