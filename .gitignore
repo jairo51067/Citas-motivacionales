@@ -29,4 +29,9 @@ out/
 Thumbs.db
 .DS_Store
 
-Basico_4-Frases_Aleatorias.docx 
+# Documentos generados automáticamente
+*.docx
+*.pdf
+*.pptx
+
+
