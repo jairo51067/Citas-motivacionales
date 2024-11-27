@@ -1,7 +1,7 @@
 # Citas Motivacionales  
 Este proyecto es una aplicación web interactiva que genera citas motivacionales aleatorias, desarrollada con HTML5, CSS3, y JavaScript. Se abordaron desafíos como asegurar la no repetición de citas consecutivas mediante lógica de manejo de índices únicos. El diseño incluye una experiencia de usuario atractiva, apoyada por Bootstrap y FontAwesome para botones animados y estilización consistente. Es una solución que destaca por su claridad en la implementación y demuestra habilidades sólidas en desarrollo web básico.
 
-[Ver el Proyecto en Acción](URL del proyecto)
+[Ver el Proyecto en Acción](https://jairo51067.github.io/Citas-motivacionales/)
 <br>
 ![Vista Previa](URL de la imagen)
 <br>
